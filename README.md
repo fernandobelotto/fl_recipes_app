@@ -1,16 +1,13 @@
-# recipes_app
+# Recipes Flutter App
 
-A new Flutter project.
+Simple flutter app based on the first lesson of Flutter Apprentice
 
-## Getting Started
+## How to run the project? 
 
-This project is a starting point for a Flutter application.
+if you have flutter properly installed, run 
 
-A few resources to get you started if this is your first Flutter project:
+`flutter run`
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+if you dont have your machine setup up, look at
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[flutter docs](https://flutter.dev/docs)
